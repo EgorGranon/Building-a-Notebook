@@ -17,7 +17,7 @@ D) Notebook loads an existing notebook file from the file "notebook.dat" if such
 
 ## Usage
 
-When the program starts, the system should check for a notebook datafile "notebook.dat" and load it with pickle. If no such file exists, or there was a problem with the file, a new file is created and the user is notified "No default notebook was found, created one.". After this the basic main menu works as in the earlier notebook:
+When the program starts, the system should check for a notebook datafile "notebook.dat" and load it with pickle. If no such file exists, or there was a problem with the file, a new file is created and the user is notified "No default notebook was found, created one.". After this the basic main menu works as follows:
 
 ```commandline
 >>> 
